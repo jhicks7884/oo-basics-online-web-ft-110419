@@ -6,5 +6,8 @@ class Shoe
   def initialize(shoe)
     @shoe = shoe
  end
-end
- 
+  def cobble
+    puts "Your shoe is as good as new!"
+    @condition= "new"
+ end
+end 
