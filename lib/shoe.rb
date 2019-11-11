@@ -6,4 +6,5 @@ class Shoe
   def Shoe
     @Shoe
  end
+
 end
