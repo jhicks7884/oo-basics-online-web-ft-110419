@@ -10,6 +10,6 @@ class Shoe
    @brand = brand
 end
   def brand
-    @brand
+    puts "Nike"
   end
 end
